@@ -1,0 +1,304 @@
+# depslib dependency file v1.0
+1358152259 source:d:\ashish ko folder\1.programming\c++\baghchal\drawengine.cpp
+	"DrawEngine.h"
+
+1358414974 d:\ashish ko folder\1.programming\c++\baghchal\drawengine.h
+
+1363074796 source:d:\ashish ko folder\1.programming\c++\baghchal\game.cpp
+	"Game.h"
+
+1363067157 d:\ashish ko folder\1.programming\c++\baghchal\game.h
+	"Headers.h"
+	"Input.h"
+	"Board.h"
+	"Sprites.h"
+	"Text.h"
+	"Tiger.h"
+	"Goat.h"
+	"Flags.h"
+	"GameState.h"
+	"AI.h"
+	"MainMenu.h"
+	"Sound.h"
+
+1362550711 source:d:\ashish ko folder\1.programming\c++\baghchal\main.cpp
+	"game.h"
+
+1362551773 d:\ashish ko folder\1.programming\c++\baghchal\board.h
+	"MyPoint.h"
+
+1362574249 source:d:\ashish ko folder\1.programming\c++\baghchal\goat.cpp
+	"Goat.h"
+
+1363074277 source:d:\ashish ko folder\1.programming\c++\baghchal\tiger.cpp
+	"tiger.h"
+
+1363068732 d:\ashish ko folder\1.programming\c++\baghchal\headers.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Audio.hpp>
+
+1361421711 source:d:\ashish ko folder\1.programming\c++\baghchal\mypoint.cpp
+	"MyPoint.h"
+
+1362308284 d:\ashish ko folder\1.programming\c++\baghchal\mypoint.h
+	"Headers.h"
+	"ActiveZone.h"
+
+1358428570 d:\ashish ko folder\1.programming\c++\baghchal\selector.h
+
+1362480870 source:d:\ashish ko folder\1.programming\c++\baghchal\imgmanager.cpp
+	"ImgManager.h"
+
+1362552772 d:\ashish ko folder\1.programming\c++\baghchal\imgmanager.h
+	"headers.h"
+
+1362573765 d:\ashish ko folder\1.programming\c++\baghchal\sprites.h
+	"Headers.h"
+	"ImgManager.h"
+	"Board.h"
+	"Flags.h"
+	"MainMenu.h"
+
+1362573849 d:\ashish ko folder\1.programming\c++\baghchal\text.h
+	"Headers.h"
+	"Flags.h"
+	<sstream>
+
+1362547767 source:d:\ashish ko folder\1.programming\c++\baghchal\board.cpp
+	"Board.h"
+
+1362924594 source:d:\ashish ko folder\1.programming\c++\baghchal\sprites.cpp
+	"Sprites.h"
+	"Game.h"
+
+1362551088 source:d:\ashish ko folder\1.programming\c++\baghchal\text.cpp
+	"Text.h"
+
+1363074208 d:\ashish ko folder\1.programming\c++\baghchal\tiger.h
+	"MyPlayer.h"
+
+1363070322 d:\ashish ko folder\1.programming\c++\baghchal\myplayer.h
+	"Headers.h"
+	"Board.h"
+	"Sprites.h"
+	"Flags.h"
+	"Board.h"
+	"GameState.h"
+
+1362674550 d:\ashish ko folder\1.programming\c++\baghchal\goat.h
+	"MyPlayer.h"
+	"Tiger.h"
+
+1362574249 source:d:\ashish ko folder\1.programming\c++\baghchal\myplayer.cpp
+	"MyPlayer.h"
+
+1362552556 d:\ashish ko folder\1.programming\c++\baghchal\flags.h
+	"headers.h"
+
+1362552656 d:\ashish ko folder\1.programming\c++\baghchal\gamestate.h
+	"headers.h"
+
+1360913048 source:d:\ashish ko folder\1.programming\c++\baghchal\gamestate.cpp
+	"GameState.h"
+
+1363069886 d:\ashish ko folder\1.programming\c++\baghchal\ai.h
+	"Headers.h"
+	"Board.h"
+	"Flags.h"
+	"Tiger.h"
+	"Goat.h"
+
+1363069929 source:d:\ashish ko folder\1.programming\c++\baghchal\ai.cpp
+	"AI.h"
+	<iostream>
+	<fstream>
+
+1362573079 d:\ashish ko folder\1.programming\c++\baghchal\input.h
+	"Headers.h"
+	"Flags.h"
+	"Sprites.h"
+	"Goat.h"
+	"Tiger.h"
+	"AI.h"
+	"MainMenu.h"
+	"Sound.h"
+
+1362571397 source:d:\ashish ko folder\1.programming\c++\baghchal\input.cpp
+	"Input.h"
+
+1360569684 source:d:\ashish ko folder\1.programming\c++\baghchal\activezone.cpp
+	"ActiveZone.h"
+
+1361629156 d:\ashish ko folder\1.programming\c++\baghchal\activezone.h
+	"Headers.h"
+
+1361427231 d:\ashish ko folder\1.programming\c++\baghchal\boardposition.h
+	"Headers.h"
+
+1360987296 source:d:\ashish ko folder\1.programming\c++\baghchal\boardposition.cpp
+	"BoardPosition.h"
+
+1362227936 d:\ashish ko folder\1.programming\c++\baghchal\mainmenu.h
+	"ActiveZone.h"
+
+1362239184 source:d:\ashish ko folder\1.programming\c++\baghchal\mainmenu.cpp
+	"MainMenu.h"
+
+1362552825 d:\ashish ko folder\1.programming\c++\baghchal\sound.h
+	"headers.h"
+
+1362241525 source:d:\ashish ko folder\1.programming\c++\baghchal\sound.cpp
+	"Sound.h"
+	<iostream>
+	<iomanip>
+
+1362925111 source:d:\ashish ko folder\1.programming\c++\baghchal\resources.rc
+
+1363069930 source:g:\baghchal\ai.cpp
+	"AI.h"
+	<iostream>
+	<fstream>
+
+1363069888 g:\baghchal\ai.h
+	"Headers.h"
+	"Board.h"
+	"Flags.h"
+	"Tiger.h"
+	"Goat.h"
+
+1363068734 g:\baghchal\headers.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Audio.hpp>
+
+1362551774 g:\baghchal\board.h
+	"MyPoint.h"
+
+1362308286 g:\baghchal\mypoint.h
+	"Headers.h"
+	"ActiveZone.h"
+
+1361629158 g:\baghchal\activezone.h
+	"Headers.h"
+
+1362552558 g:\baghchal\flags.h
+	"headers.h"
+
+1363074210 g:\baghchal\tiger.h
+	"MyPlayer.h"
+
+1363070324 g:\baghchal\myplayer.h
+	"Headers.h"
+	"Board.h"
+	"Sprites.h"
+	"Flags.h"
+	"Board.h"
+	"GameState.h"
+
+1362573766 g:\baghchal\sprites.h
+	"Headers.h"
+	"ImgManager.h"
+	"Board.h"
+	"Flags.h"
+	"MainMenu.h"
+
+1362552774 g:\baghchal\imgmanager.h
+	"headers.h"
+
+1362227938 g:\baghchal\mainmenu.h
+	"ActiveZone.h"
+
+1362552658 g:\baghchal\gamestate.h
+	"headers.h"
+
+1362674552 g:\baghchal\goat.h
+	"MyPlayer.h"
+	"Tiger.h"
+
+1360569686 source:g:\baghchal\activezone.cpp
+	"ActiveZone.h"
+
+1362547768 source:g:\baghchal\board.cpp
+	"Board.h"
+
+1363074798 source:g:\baghchal\game.cpp
+	"Game.h"
+
+1363067158 g:\baghchal\game.h
+	"Headers.h"
+	"Input.h"
+	"Board.h"
+	"Sprites.h"
+	"Text.h"
+	"Tiger.h"
+	"Goat.h"
+	"Flags.h"
+	"GameState.h"
+	"AI.h"
+	"MainMenu.h"
+	"Sound.h"
+
+1362573080 g:\baghchal\input.h
+	"Headers.h"
+	"Flags.h"
+	"Sprites.h"
+	"Goat.h"
+	"Tiger.h"
+	"AI.h"
+	"MainMenu.h"
+	"Sound.h"
+
+1362552826 g:\baghchal\sound.h
+	"headers.h"
+
+1362573850 g:\baghchal\text.h
+	"Headers.h"
+	"Flags.h"
+	<sstream>
+
+1360913050 source:g:\baghchal\gamestate.cpp
+	"GameState.h"
+
+1362480872 source:g:\baghchal\imgmanager.cpp
+	"ImgManager.h"
+
+1362571398 source:g:\baghchal\input.cpp
+	"Input.h"
+
+1362239186 source:g:\baghchal\mainmenu.cpp
+	"MainMenu.h"
+
+1362574250 source:g:\baghchal\myplayer.cpp
+	"MyPlayer.h"
+
+1361421712 source:g:\baghchal\mypoint.cpp
+	"MyPoint.h"
+
+1362925112 source:g:\baghchal\resources.rc
+
+1362241526 source:g:\baghchal\sound.cpp
+	"Sound.h"
+	<iostream>
+	<iomanip>
+
+1362924596 source:g:\baghchal\sprites.cpp
+	"Sprites.h"
+	"Game.h"
+
+1362551090 source:g:\baghchal\text.cpp
+	"Text.h"
+
+1362574250 source:g:\baghchal\goat.cpp
+	"Goat.h"
+
+1362550712 source:g:\baghchal\main.cpp
+	"game.h"
+
+1363074278 source:g:\baghchal\tiger.cpp
+	"tiger.h"
+

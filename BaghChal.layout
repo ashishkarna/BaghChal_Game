@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AI.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="708" topLine="17" />
+	</File>
+	<File name="AI.h" open="0" top="0" tabpos="3">
+		<Cursor position="884" topLine="22" />
+	</File>
+	<File name="ActiveZone.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="330" topLine="0" />
+	</File>
+	<File name="ActiveZone.h" open="0" top="0" tabpos="0">
+		<Cursor position="248" topLine="0" />
+	</File>
+	<File name="Board.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1171" topLine="32" />
+	</File>
+	<File name="Board.h" open="1" top="0" tabpos="11">
+		<Cursor position="505" topLine="0" />
+	</File>
+	<File name="Flags.h" open="0" top="0" tabpos="5">
+		<Cursor position="1881" topLine="19" />
+	</File>
+	<File name="Game.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="6026" topLine="193" />
+	</File>
+	<File name="Game.h" open="0" top="0" tabpos="2">
+		<Cursor position="1001" topLine="31" />
+	</File>
+	<File name="GameState.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="422" topLine="14" />
+	</File>
+	<File name="GameState.h" open="0" top="0" tabpos="3">
+		<Cursor position="206" topLine="3" />
+	</File>
+	<File name="ImgManager.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="1354" topLine="0" />
+	</File>
+	<File name="ImgManager.h" open="0" top="0" tabpos="16">
+		<Cursor position="202" topLine="0" />
+	</File>
+	<File name="Input.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="15169" topLine="562" />
+	</File>
+	<File name="Input.h" open="0" top="0" tabpos="1">
+		<Cursor position="1339" topLine="34" />
+	</File>
+	<File name="MainMenu.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="2261" topLine="0" />
+	</File>
+	<File name="MainMenu.h" open="0" top="0" tabpos="4">
+		<Cursor position="274" topLine="0" />
+	</File>
+	<File name="MyPlayer.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="892" topLine="0" />
+	</File>
+	<File name="MyPlayer.h" open="1" top="1" tabpos="14">
+		<Cursor position="38" topLine="3" />
+	</File>
+	<File name="MyPoint.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="371" topLine="12" />
+	</File>
+	<File name="MyPoint.h" open="1" top="0" tabpos="12">
+		<Cursor position="603" topLine="1" />
+	</File>
+	<File name="Resources.rc" open="0" top="0" tabpos="1">
+		<Cursor position="68" topLine="0" />
+	</File>
+	<File name="Sound.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="412" topLine="4" />
+	</File>
+	<File name="Sound.h" open="0" top="0" tabpos="1">
+		<Cursor position="294" topLine="0" />
+	</File>
+	<File name="Sprites.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="925" topLine="25" />
+	</File>
+	<File name="Sprites.h" open="0" top="0" tabpos="4">
+		<Cursor position="738" topLine="22" />
+	</File>
+	<File name="Text.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1476" topLine="36" />
+	</File>
+	<File name="Text.h" open="0" top="0" tabpos="2">
+		<Cursor position="611" topLine="18" />
+	</File>
+	<File name="goat.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="2478" topLine="72" />
+	</File>
+	<File name="goat.h" open="0" top="0" tabpos="5">
+		<Cursor position="387" topLine="1" />
+	</File>
+	<File name="headers.h" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="144" topLine="0" />
+	</File>
+	<File name="tiger.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="tiger.h" open="0" top="0" tabpos="8">
+		<Cursor position="131" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
